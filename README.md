@@ -8,8 +8,8 @@
 ```
 ***Example :***
 ```
-  **Example1.jpg** is the picture before
-  Dragging to the file will result in **cringe.png**
+  Example1.jpg is the picture before
+  Dragging to the file will result in cringe.png
 ```
 
 ***PS :***
