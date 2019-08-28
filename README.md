@@ -6,6 +6,11 @@
 ```
   Drag a picture to the file and wait
 ```
+***Example :***
+```
+  Example1.jpg is the picture before
+  Dragging to the file will result in cring.png
+```
 
 ***PS :***
 Definetly NSFW
